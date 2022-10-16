@@ -13,17 +13,17 @@ export default function Footer() {
             </a>
           </div>
           <div className="footer__center">
-            <a className="link" href="https://docs.pmnd.rs/home" target="_blank" rel="noopener noreferrer">
-              Docs
+            <a className="link" href="https://www.linkedin.com/in/sol-%E2%98%BC-elkin-782051181/" target="_blank" rel="noopener noreferrer">
+              linkedin
             </a>
-            <a className="link" href="https://pmnd.rs/twitter" target="_blank" rel="noopener noreferrer">
+            <a className="link" href="https://twitter.com/solelkin_" target="_blank" rel="noopener noreferrer">
               Twitter
             </a>
-            <a className="link" href="https://pmnd.rs/github" target="_blank" rel="noopener noreferrer">
+            <a className="link" href="https://github.com/solelkin" target="_blank" rel="noopener noreferrer">
               GitHub
             </a>
-            <a className="link" href="https://pmnd.rs/discord" target="_blank" rel="noopener noreferrer">
-              Discord
+            <a className="link" href="https://www.instagram.com/sol.elkin/?next=%2F" target="_blank" rel="noopener noreferrer">
+              instagram
             </a>
           </div>
           <div className="footer__right">
